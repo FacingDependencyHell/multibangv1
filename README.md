@@ -1,4 +1,4 @@
-# Multibang v1
+# Multibang
 A 3D printed cage for the Dum Bum 0.2g firecrackers.
 This cage enables you to bundle 5 of the firecrackers into a makeshift multibang. 
 
